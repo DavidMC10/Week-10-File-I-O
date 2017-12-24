@@ -1,0 +1,14 @@
+"David McElhinney" "B00716978" "BSc Hons Computer Science" 2
+9
+"OOM" "COM321" 20 90
+"OOP" "COM326" 20 90
+"VP" "COM134" 20 90
+"OOM" "COM321" 44 44
+"OOP" "COM326" 44 44
+"VP" "COM134" 44 4
+"OOM" "COM321" 11 11
+"OOP" "COM326" 11 11
+"VP" "COM134" 11 11"Arsene Wenger" "B00444444" "BSc Hons Computer Science 4" 4
+0
+"Sir Alex" "B001111111" "BSc Hons Computer Science 1" 1
+0
